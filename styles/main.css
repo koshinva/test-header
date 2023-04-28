@@ -1,0 +1,15 @@
+.main {
+  width: 1260px;
+  margin: 48px auto;
+}
+.main__block {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #f8f9fa;
+  border-radius: 16px;
+  min-height: 400px;
+  border: 1px solid #dee8ff;
+}
+.main__block:not(:last-child) {
+  margin-bottom: 40px;
+}
